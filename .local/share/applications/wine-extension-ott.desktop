@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=OpenOffice Writer
+MimeType=application/vnd.oasis.opendocument.text-template;
+Exec=env WINEPREFIX="/Users/Fays/Library/PlayOnMac//wineprefix/Open_office_" wine start /ProgIDOpen opendocument.WriterTemplate.1 %f
+NoDisplay=true
+StartupNotify=true
+Icon=71E1_swriter.0

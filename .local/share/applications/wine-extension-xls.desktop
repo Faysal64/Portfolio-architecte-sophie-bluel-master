@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=OpenOffice Calc
+MimeType=application/x-wine-extension-xls;
+Exec=env WINEPREFIX="/Users/Fays/Library/PlayOnMac//wineprefix/Open_office_" wine start /ProgIDOpen OpenOffice.Xls %f
+NoDisplay=true
+StartupNotify=true
+Icon=30CB_scalc.0

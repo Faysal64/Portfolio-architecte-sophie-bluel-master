@@ -1,0 +1,19 @@
+[2019-05-25 14:24:54] [INFO] - (78) data_init to start thread
+[2019-05-25 14:24:54] [INFO] [2019-05-25 14:24:54] [INFO] - (- (8735) ) data_init endback thread start ...
+
+[2019-05-25 14:24:54] [INFO] - (36) sdk version: 1.1.1.1113
+[2019-05-25 14:24:54] [INFO] - (116) update conf from svr
+[2019-05-25 14:24:54] [INFO] - (424) get svr cnf
+[2019-05-25 14:24:54] [INFO] - (132) base_info
+[2019-05-25 14:24:54] [INFO] - (147) client_sign: {B6FCB8BD-975F-5BC1-9E9E-59B6E5D2A84B}
+[2019-05-25 14:24:56] [INFO] - (150) save cnf:1
+[2019-05-25 14:24:56] [INFO] - (131) update conf from svr end
+[2019-05-25 14:24:56] [INFO] - (97) chk old msgs
+[2019-05-25 14:24:56] [INFO] - (179) process_msgs: 0
+[2019-05-25 14:24:56] [INFO] - (150) save cnf:1
+[2019-05-25 14:24:56] [INFO] - (137) back thread loop start ...
+[2019-05-25 14:24:56] [INFO] - (267) addtional send
+[2019-05-25 14:29:54] [INFO] - (295) event
+[2019-05-25 14:29:54] [INFO] - (285) save msg to file
+[2019-05-25 14:29:54] [INFO] - (295) event
+[2019-05-25 14:29:54] [INFO] - (285) save msg to file

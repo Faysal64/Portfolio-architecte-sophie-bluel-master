@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=OpenOffice 4.1.3
+MimeType=application/vnd.openofficeorg.extension;
+Exec=env WINEPREFIX="/Users/Fays/Library/PlayOnMac//wineprefix/Open_office_" wine start /ProgIDOpen office.Extension.1 %f
+NoDisplay=true
+StartupNotify=true
+Icon=2A67_soffice.0

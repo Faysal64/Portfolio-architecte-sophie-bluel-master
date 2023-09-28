@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="application/vnd.oasis.opendocument.spreadsheet-template">
+    <glob pattern="*.ots"/>
+    <comment>Modèle de classeur OpenDocument</comment>
+  </mime-type>
+</mime-info>

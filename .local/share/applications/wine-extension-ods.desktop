@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=OpenOffice Calc
+MimeType=application/vnd.oasis.opendocument.spreadsheet;
+Exec=env WINEPREFIX="/Users/Fays/Library/PlayOnMac//wineprefix/Open_office_" wine start /ProgIDOpen opendocument.CalcDocument.1 %f
+NoDisplay=true
+StartupNotify=true
+Icon=30CB_scalc.0

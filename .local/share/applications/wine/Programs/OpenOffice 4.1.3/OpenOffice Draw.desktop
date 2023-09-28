@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=OpenOffice Draw
+Exec=env WINEPREFIX="/Users/Fays/Library/PlayOnMac//wineprefix/Open_office_" wine C:\\\\windows\\\\command\\\\start.exe /Unix /Users/Fays/Library/PlayOnMac//wineprefix/Open_office_/dosdevices/c:/users/Fays/Start\\ Menu/Programs/OpenOffice\\ 4.1.3/OpenOffice\\ Draw.lnk
+Type=Application
+StartupNotify=true
+Comment=Draw : création et édition de dessins, d'organigrammes et de logos.
+Path=/Users/Fays/Library/PlayOnMac//wineprefix/Open_office_/dosdevices/c:/Program Files/OpenOffice 4/
+Icon=0999_sdraw.0

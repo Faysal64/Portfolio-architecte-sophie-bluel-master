@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=OpenOffice
+Exec=env WINEPREFIX="/Users/Fays/Library/PlayOnMac//wineprefix/Open_office_" wine C:\\\\windows\\\\command\\\\start.exe /Unix /Users/Fays/Library/PlayOnMac//wineprefix/Open_office_/dosdevices/c:/users/Fays/Start\\ Menu/Programs/OpenOffice\\ 4.1.3/OpenOffice.lnk
+Type=Application
+StartupNotify=true
+Comment=La suite bureautique compatible avec le format de document ODF ouvert et normalisé. Supporté par la Fondation Apache.
+Path=/Users/Fays/Library/PlayOnMac//wineprefix/Open_office_/dosdevices/c:/Program Files/OpenOffice 4/
+Icon=2A67_soffice.0

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=OpenOffice Base
+Exec=env WINEPREFIX="/Users/Fays/Library/PlayOnMac//wineprefix/Open_office_" wine C:\\\\windows\\\\command\\\\start.exe /Unix /Users/Fays/Library/PlayOnMac//wineprefix/Open_office_/dosdevices/c:/users/Fays/Start\\ Menu/Programs/OpenOffice\\ 4.1.3/OpenOffice\\ Base.lnk
+Type=Application
+StartupNotify=true
+Comment=Base : gestion de bases de données, création de requêtes et rapports pour mieux gérer les informations.
+Path=/Users/Fays/Library/PlayOnMac//wineprefix/Open_office_/dosdevices/c:/Program Files/OpenOffice 4/
+Icon=9380_sbase.0

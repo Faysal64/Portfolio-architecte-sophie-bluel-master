@@ -1,0 +1,13 @@
+PATH=~/bin:$PATH
+bash_env
+
+# Setting PATH for Python 3.11
+# The original version is saved in .bash_profile.pysave
+PATH="/Library/Frameworks/Python.framework/Versions/3.11/bin:${PATH}"
+eval "$(rbenv init -)"
+
+eval "$(rbenv init -)"
+source ~/.bash_profile
+rbenv install 3.0.1
+export PATH
+eval "$(rbenv init -)"

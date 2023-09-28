@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Start thriXXX Launcher
+Exec=env WINEPREFIX="/Users/Fays/Library/PlayOnMac//wineprefix/glk_" wine C:\\\\windows\\\\command\\\\start.exe /Unix /Users/Fays/Library/PlayOnMac//wineprefix/glk_/dosdevices/c:/users/Fays/Start\\ Menu/Programs/thriXXX/Launcher/Start\\ thriXXX\\ Launcher.lnk
+Type=Application
+StartupNotify=true
+Path=/Users/Fays/Library/PlayOnMac//wineprefix/glk_/dosdevices/c:/Program Files/thriXXX/Launcher
+Icon=1EE8_LauncherStarter.0

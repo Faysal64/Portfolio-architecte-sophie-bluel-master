@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="application/x-wine-extension-xlt">
+    <glob pattern="*.xlt"/>
+    <comment>Modèle Microsoft Excel 97-2003</comment>
+  </mime-type>
+</mime-info>

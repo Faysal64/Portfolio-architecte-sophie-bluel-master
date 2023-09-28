@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=A Wine application
+MimeType=application/x-wine-extension-rtf;
+Exec=env WINEPREFIX="/Users/Fays/Library/PlayOnMac//wineprefix/glk_" wine start /ProgIDOpen rtffile %f
+NoDisplay=true
+StartupNotify=true

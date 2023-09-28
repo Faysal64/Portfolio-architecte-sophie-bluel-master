@@ -1,0 +1,22 @@
+25/05/2019 14:24:54 Program.InitCustomize
+25/05/2019 14:24:54 InitDataBaseInfo Success
+25/05/2019 14:24:55 App Version :9.5.0.219
+25/05/2019 14:24:55 <USB DEBUG> start requesting...
+25/05/2019 14:24:55 InitApp End
+25/05/2019 14:24:55 <USB DEBUG> start parsing json...
+25/05/2019 14:24:56 <USB DEBUG> value compare: 1-1
+25/05/2019 14:24:56 RegisterUSBDevicesNotify handle:106102874109184
+25/05/2019 14:24:57 ConnectionHub.AddConnection(IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14200000, iOS, 0063aab0a3ba83ad1e87c913eb810eeb12382c84)
+25/05/2019 14:26:24 ConnectionHub.RemoveConnection(IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14200000, 0063aab0a3ba83ad1e87c913eb810eeb12382c84)
+25/05/2019 14:26:24 ConnectionHub.OnConnectionLost(IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14200000)
+25/05/2019 14:26:27 ConnectionHub.AddConnection(IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14200000, iOS, 0063aab0a3ba83ad1e87c913eb810eeb12382c84)
+25/05/2019 14:26:27 ConnectionHub.RemoveConnection(IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14200000, 0063aab0a3ba83ad1e87c913eb810eeb12382c84)
+25/05/2019 14:26:27 ConnectionHub.OnConnectionLost(IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14200000)
+25/05/2019 14:26:27 ConnectionHub.AddConnection(IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14200000, iOS, 0063aab0a3ba83ad1e87c913eb810eeb12382c84)
+25/05/2019 14:28:39 ConnectionHub.RemoveConnection(IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14200000, 0063aab0a3ba83ad1e87c913eb810eeb12382c84)
+25/05/2019 14:28:39 ConnectionHub.OnConnectionLost(IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14200000)
+25/05/2019 14:28:47 Connection IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/iPhone@14200000 disposed.
+25/05/2019 14:28:55 ConnectionHub.AddConnection(IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/Apple Mobile Device (Recovery Mode)@14200000, iOS, CPID:8010 CPRV:11 CPFM:03 SCEP:01 BDID:08 ECID:001C64CE208B4D26 IBFL:3D SRNM:[DNPSPGCPHG75])
+25/05/2019 14:29:15 ConnectionHub.RemoveConnection(IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/Apple Mobile Device (Recovery Mode)@14200000, CPID:8010 CPRV:11 CPFM:03 SCEP:01 BDID:08 ECID:001C64CE208B4D26 IBFL:3D SRNM:[DNPSPGCPHG75])
+25/05/2019 14:29:15 ConnectionHub.OnConnectionLost(IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/Apple Mobile Device (Recovery Mode)@14200000)
+25/05/2019 14:29:21 ConnectionHub.AddConnection(IOService:/IOResources/AppleUSBHostResources/AppleUSBLegacyRoot/AppleUSBXHCI@14000000/Apple Mobile Device (Recovery Mode)@14200000, iOS, CPID:8010 CPRV:11 CPFM:03 SCEP:01 BDID:08 ECID:001C64CE208B4D26 IBFL:3D SRNM:[DNPSPGCPHG75])

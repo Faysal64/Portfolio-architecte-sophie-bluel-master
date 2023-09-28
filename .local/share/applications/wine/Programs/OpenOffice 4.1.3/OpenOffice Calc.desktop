@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=OpenOffice Calc
+Exec=env WINEPREFIX="/Users/Fays/Library/PlayOnMac//wineprefix/Open_office_" wine C:\\\\windows\\\\command\\\\start.exe /Unix /Users/Fays/Library/PlayOnMac//wineprefix/Open_office_/dosdevices/c:/users/Fays/Start\\ Menu/Programs/OpenOffice\\ 4.1.3/OpenOffice\\ Calc.lnk
+Type=Application
+StartupNotify=true
+Comment=Calc : calculs, analyse d'informations et gestion de listes dans des feuilles de calcul.
+Path=/Users/Fays/Library/PlayOnMac//wineprefix/Open_office_/dosdevices/c:/Program Files/OpenOffice 4/
+Icon=30CB_scalc.0

@@ -1,0 +1,2 @@
+PATH=~/bin:$PATH
+bash_env

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=OpenOffice Impress
+MimeType=application/x-wine-extension-pot;
+Exec=env WINEPREFIX="/Users/Fays/Library/PlayOnMac//wineprefix/Open_office_" wine start /ProgIDOpen OpenOffice.Pot %f
+NoDisplay=true
+StartupNotify=true
+Icon=FA65_simpress.0

@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=OpenOffice Draw
+MimeType=application/vnd.sun.xml.draw.template;
+Exec=env WINEPREFIX="/Users/Fays/Library/PlayOnMac//wineprefix/Open_office_" wine start /ProgIDOpen soffice.StarDrawTemplate.6 %f
+NoDisplay=true
+StartupNotify=true
+Icon=0999_sdraw.0

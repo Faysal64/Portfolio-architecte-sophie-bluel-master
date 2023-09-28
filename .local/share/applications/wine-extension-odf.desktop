@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=OpenOffice Math
+MimeType=application/vnd.oasis.opendocument.formula;
+Exec=env WINEPREFIX="/Users/Fays/Library/PlayOnMac//wineprefix/Open_office_" wine start /ProgIDOpen opendocument.MathDocument.1 %f
+NoDisplay=true
+StartupNotify=true
+Icon=A5EC_smath.0
